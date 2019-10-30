@@ -1,0 +1,81 @@
+Brent Laden
+1: New York
+	1)  Hoboken 4.12402
+	2)  Jersey City 6.28147
+	3)  West New York 8.38224
+2: Los Angeles
+	1)  Huntington Park 8.03277
+	2)  Glendale 10.0955
+	3)  Monterey Park 11.1935
+3: Chicago
+	1)  Cicero 10.9016
+	2)  Oak Park 12.8343
+	3)  Berwyn 13.9149
+4: Houston
+	1)  Pasadena 17.3338
+	2)  Missouri City 22.6322
+	3)  Pearland 23.3445
+5: Philadelphia
+	1)  Camden 4.88895
+	2)  Wilmington 39.8386
+	3)  Trenton 46.4398
+6: Phoenix
+	1)  Tempe 12.6978
+	2)  Glendale 14.4447
+	3)  Scottsdale 14.6445
+7: San Antonio
+	1)  New Braunfels 47.3054
+	2)  San Marcos 73.874
+	3)  Austin 118.471
+8: San Diego
+	1)  National City 7.14654
+	2)  Chula Vista 11.0761
+	3)  La Mesa 14.151
+9: Dallas
+	1)  Irving 14.7982
+	2)  Duncanville 17.3627
+	3)  Mesquite 18.534
+10: San Jose
+	1)  Santa Clara 6.34444
+	2)  Campbell 7.99466
+	3)  Milpitas 10.5345
+991: Aventura
+	1)  Hallandale Beach 2.89842
+	2)  North Miami Beach 3.49021
+	3)  Hollywood 6.17247
+992: Martinez
+	1)  Concord 10.1384
+	2)  Walnut Creek 13.5763
+	3)  Vallejo 14.279
+993: Greenfield
+	1)  West Allis 6.16481
+	2)  New Berlin 7.97621
+	3)  Wauwatosa 9.80228
+994: Apache Junction
+	1)  Gilbert 23.2907
+	2)  Mesa 26.1714
+	3)  Chandler 29.6796
+995: Monrovia
+	1)  Arcadia 3.11544
+	2)  Baldwin Park 7.57082
+	3)  El Monte 8.73783
+996: Weslaco
+	1)  Pharr 19.6394
+	2)  Edinburg 23.3764
+	3)  McAllen 24.3672
+997: Keizer
+	1)  Salem 5.29869
+	2)  Albany 39.8304
+	3)  Corvallis 50.8635
+998: Spanish Fork
+	1)  Provo 13.2271
+	2)  Orem 20.5163
+	3)  Lehi 34.9757
+999: Beloit
+	1)  Janesville 19.4318
+	2)  Rockford 26.8753
+	3)  Crystal Lake 65.8828
+1000: Panama City
+	1)  Dothan 121.169
+	2)  Tallahassee 136.072
+	3)  Pensacola 152.332
